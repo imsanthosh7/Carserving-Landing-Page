@@ -2,7 +2,7 @@
 # 🚘CarServing Website
 **Live Demo**: https://imsanthosh7.github.io/Carserving-Landing-Page/
 
-Welcome to the CarServing website repository! This project is a frontend design for a car service landing page, built with HTML, CSS, and JavaScript.
+Welcome to the CarServing website repository! This project is a frontend design for a car service, built with HTML, CSS, and JavaScript.
 
 
 ## Project Sections
